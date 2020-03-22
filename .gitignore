@@ -130,3 +130,5 @@ dmypy.json
 
 #vcode
 .vscode/
+calculator/
+.coverage
