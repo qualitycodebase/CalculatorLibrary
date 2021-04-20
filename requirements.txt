@@ -39,7 +39,7 @@ pkginfo==1.5.0.1
 pluggy==0.13.1
 ply==3.11
 public==2019.4.13
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.5
 pycodestyle==2.5.0
 pycparser==2.19
